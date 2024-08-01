@@ -1,0 +1,25 @@
+#profile {
+    width: 400px;
+    height: 300px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    box-shadow: 10px;
+    margin-left: 250px;
+    padding-left: 50px;
+}
+#profile img {
+    padding-top: 20px;
+}
+button {
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 50px;
+    margin-left: 370px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}

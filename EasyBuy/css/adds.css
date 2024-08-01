@@ -1,0 +1,18 @@
+.card {
+    border-radius: 10px ;
+    background-color:lightgoldenrodyellow;
+    width: 300px;
+    padding: 10 20 0 40;
+}
+.card p{
+    font-size: 20px;
+}
+.card3 {
+    display: flex;
+}
+h1 {
+    color: white;
+}
+.card h1{
+    color: black;
+}
